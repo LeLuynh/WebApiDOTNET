@@ -1,0 +1,13 @@
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eProjectDemoViewModel\bin\Debug\netcoreapp3.1\eProjectDemoViewModel.deps.json
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eProjectDemoViewModel\bin\Debug\netcoreapp3.1\eProjectDemoViewModel.dll
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eProjectDemoViewModel\bin\Debug\netcoreapp3.1\eProjectDemoViewModel.pdb
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eProjectDemoViewModel\obj\Debug\netcoreapp3.1\eProjectDemoViewModel.csproj.AssemblyReference.cache
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eProjectDemoViewModel\obj\Debug\netcoreapp3.1\eProjectDemoViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eProjectDemoViewModel\obj\Debug\netcoreapp3.1\eProjectDemoViewModel.AssemblyInfoInputs.cache
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eProjectDemoViewModel\obj\Debug\netcoreapp3.1\eProjectDemoViewModel.AssemblyInfo.cs
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eProjectDemoViewModel\obj\Debug\netcoreapp3.1\eProjectDemoViewModel.csproj.CoreCompileInputs.cache
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eProjectDemoViewModel\obj\Debug\netcoreapp3.1\eProjectDemoViewModel.dll
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eProjectDemoViewModel\obj\Debug\netcoreapp3.1\eProjectDemoViewModel.pdb
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eProjectDemoViewModel\bin\Debug\netcoreapp3.1\eProjectDemoData.dll
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eProjectDemoViewModel\bin\Debug\netcoreapp3.1\eProjectDemoData.pdb
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eProjectDemoViewModel\obj\Debug\netcoreapp3.1\eProjectDemoViewModel.csproj.CopyComplete

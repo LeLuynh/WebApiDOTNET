@@ -1,0 +1,17 @@
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eShopShose\bin\Debug\netcoreapp3.1\eProjectDemoApplication.deps.json
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eShopShose\bin\Debug\netcoreapp3.1\eProjectDemoApplication.dll
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eShopShose\bin\Debug\netcoreapp3.1\eProjectDemoApplication.pdb
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eShopShose\obj\Debug\netcoreapp3.1\eProjectDemoApplication.csproj.AssemblyReference.cache
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eShopShose\obj\Debug\netcoreapp3.1\eProjectDemoApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eShopShose\obj\Debug\netcoreapp3.1\eProjectDemoApplication.AssemblyInfoInputs.cache
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eShopShose\obj\Debug\netcoreapp3.1\eProjectDemoApplication.AssemblyInfo.cs
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eShopShose\obj\Debug\netcoreapp3.1\eProjectDemoApplication.csproj.CoreCompileInputs.cache
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eShopShose\obj\Debug\netcoreapp3.1\eProjectDemoApplication.dll
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eShopShose\obj\Debug\netcoreapp3.1\eProjectDemoApplication.pdb
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eShopShose\bin\Debug\netcoreapp3.1\eProjectDemoData.dll
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eShopShose\bin\Debug\netcoreapp3.1\eProjectDemoData.pdb
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eShopShose\obj\Debug\netcoreapp3.1\eProjectDemoApplication.csproj.CopyComplete
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eShopShose\bin\Debug\netcoreapp3.1\eProjectDemoViewModel.dll
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eShopShose\bin\Debug\netcoreapp3.1\eProjectUntilities.dll
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eShopShose\bin\Debug\netcoreapp3.1\eProjectDemoViewModel.pdb
+C:\Users\trucl\source\repos\ProjectDemoWebAppp\eShopShose\bin\Debug\netcoreapp3.1\eProjectUntilities.pdb
